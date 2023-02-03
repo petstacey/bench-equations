@@ -10,6 +10,7 @@ Available flags
 -row = start row (int) for calculation
 -weeks = number of weeks to derive formula for
 
+### Linux
 ```
 ./bin/linux/app -column=T -row=12 -weeks=52
 ```
@@ -20,4 +21,9 @@ or
 make run
 ```
 
-Thiw will run with defaults of column "T", row 12 and 52 weeks
+This will run with defaults of column "T", row 12 and 52 weeks
+
+### Windows
+```
+.\bin\win\app.exe
+```
