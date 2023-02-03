@@ -10,6 +10,6 @@ Available flags
 -row = start row (int) for calculation
 -weeks = number of weeks to derive formula for
 
-'''
+```
 ./bin/linux/app -column=T -row=12 -weeks=52
-'''
+```
