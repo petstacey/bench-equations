@@ -13,3 +13,11 @@ Available flags
 ```
 ./bin/linux/app -column=T -row=12 -weeks=52
 ```
+
+or
+
+```
+make run
+```
+
+Thiw will run with defaults of column "T", row 12 and 52 weeks
