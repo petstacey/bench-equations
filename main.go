@@ -71,7 +71,7 @@ func main() {
 
 	start := flags.String("column", "T", "first column to calculate from")
 	weeks := flags.Int("weeks", 52, "number of weeks to include")
-	row := flags.Int("row", 12, "row to calculate for")
+	row := flags.Int("row", 3, "row to calculate for")
 
 	flags.Parse(os.Args[1:])
 

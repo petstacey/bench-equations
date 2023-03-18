@@ -12,7 +12,7 @@ Available flags
 
 ### Linux
 ```
-./bin/linux/app -column=T -row=12 -weeks=52
+./bin/linux/app -column=T -row=3 -weeks=52
 ```
 
 or
@@ -21,7 +21,7 @@ or
 make run
 ```
 
-This will run with defaults of column "T", row 12 and 52 weeks
+This will run with defaults of column "T", row 3 and 52 weeks
 
 ### Windows
 ```
